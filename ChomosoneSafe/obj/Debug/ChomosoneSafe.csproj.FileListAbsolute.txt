@@ -1,0 +1,8 @@
+C:\Users\April\source\repos\ChomosoneSafe\ChomosoneSafe\bin\Debug\ChomosoneSafe.exe
+C:\Users\April\source\repos\ChomosoneSafe\ChomosoneSafe\bin\Debug\ChomosoneSafe.pdb
+C:\Users\April\source\repos\ChomosoneSafe\ChomosoneSafe\obj\Debug\ChomosoneSafe.csproj.AssemblyReference.cache
+C:\Users\April\source\repos\ChomosoneSafe\ChomosoneSafe\obj\Debug\ChomosoneSafe.Properties.Resources.resources
+C:\Users\April\source\repos\ChomosoneSafe\ChomosoneSafe\obj\Debug\ChomosoneSafe.csproj.GenerateResource.cache
+C:\Users\April\source\repos\ChomosoneSafe\ChomosoneSafe\obj\Debug\ChomosoneSafe.csproj.CoreCompileInputs.cache
+C:\Users\April\source\repos\ChomosoneSafe\ChomosoneSafe\obj\Debug\ChomosoneSafe.exe
+C:\Users\April\source\repos\ChomosoneSafe\ChomosoneSafe\obj\Debug\ChomosoneSafe.pdb
